@@ -1,5 +1,5 @@
 # 极云 SSH登录脚本
-![alt](https://github.com/StarWars-Team/geekcloud-ssh/ssh.jpg)
+![alt](https://github.com/StarWars-Team/geekcloud-ssh/blob/master/ssh.jpg)
 ## 添加登录启动功能
     git clone https://github.com/StarWars-Team/geekcloud-ssh.git
   
