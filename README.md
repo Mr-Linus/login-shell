@@ -3,7 +3,7 @@
 ## 添加登录启动功能
     git clone https://github.com/GeekCloud-Team/login-shell.git
   
-    cd geekcloud-ssh
+    cd login-shell
   
     mv motd.sh /etc/
   
